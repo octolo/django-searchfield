@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "django-searchfield"
-version = "0.1.0"
+version = "0.1.1"
 description = "Django field that combines multiple fields into a search-indexed concatenated value"
 readme = "README.md"
 authors = [{ name = "Octolo", email = "dev@octolo.tech" }]
